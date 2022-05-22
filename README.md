@@ -5,7 +5,7 @@
 
 - はじめまして、工房こめつぶです
 - 主にC#でアプリを作っています
-- お仕事のご依頼は、kouboukometsubu@gmail.com　まで。
+- ご質問などは、kouboukometsubu@gmail.com　まで。
 
 <!---
 kouboukometsubu/kouboukometsubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
