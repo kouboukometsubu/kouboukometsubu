@@ -1,7 +1,11 @@
+---
+
 - Hi, I’m @kouboukometsubu
 - I’m interested in C# application.
 - I’m currently learning web app.
 - How to reach me kouboukometsubu@gmail.com
+
+---
 
 - はじめまして、工房こめつぶです
 - 主にC#でアプリを作っています
