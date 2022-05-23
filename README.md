@@ -11,6 +11,8 @@
 - 主にC#でアプリを作っています
 - ご質問などは、kouboukometsubu@gmail.com　まで。
 
+---
+
 <!---
 kouboukometsubu/kouboukometsubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
